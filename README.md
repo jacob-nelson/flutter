@@ -1,2 +1,2 @@
 # flutter
-An attempt to demonstrate available flutter components, with example
+An attempt to demonstrate available flutter components, with examples
